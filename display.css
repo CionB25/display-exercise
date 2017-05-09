@@ -1,0 +1,32 @@
+main {
+	font-size: 0;
+}
+.box {
+	font-size: 0;
+	height: 200px;
+	width: 49.8%;
+	display: inline-block;
+	border: 1px solid black;
+}
+.box-one {
+	background-color: green;
+}
+.box-two {
+	background-color: blue;
+}
+.container {
+	font-size: 0;
+	height: 300px;
+	width: 33.16%;
+	display: inline-block;
+	border: 1px solid black;
+}
+.container-one {
+	background-color: grey;
+}
+.container-two {
+	background-color: black;
+}
+.container-three {
+	background-color: orange;
+}
